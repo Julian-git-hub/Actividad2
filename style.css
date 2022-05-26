@@ -109,10 +109,10 @@ a:hover {
 }
 
 .default table, th, td{
-    border: 1px solid black;
+    border: 1px solid wheat;
     text-align: center;
     margin-right: 20px;
-    background-color: #f9a91a;
+    background-color: blanchedalmond;
 
 }
 
